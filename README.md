@@ -3,7 +3,7 @@
 
 This repository shares the scripts and data sets used in the following peer-reviewed academic publication:
 
-* [The Writing is on the Wall: Analyzing the Boom of Inscriptions and its Impact on EVM-compatible Blockchains](./papers/messias-caaw25-inscriptions-boom.pdf). Johnnatan Messias, Krzysztof Gogol, Maria Inês Silva, and Benjamin Livshits. In Proceedings of the 4th International Workshop on Cryptoasset Analytics (CAAW). 2025.
+* [The Writing is on the Wall: Analyzing the Boom of Inscriptions and its Impact on EVM-compatible Blockchains](./messias-caaw25-inscriptions-boom.pdf). Johnnatan Messias, Krzysztof Gogol, Maria Inês Silva, and Benjamin Livshits. In Proceedings of the 4th International Workshop on Cryptoasset Analytics (CAAW). 2025.
 
 
 ## Data sets
